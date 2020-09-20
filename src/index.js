@@ -67,7 +67,7 @@ breedDropdown.addEventListener("change", (evt) => {
     })
 
 
-    })
+  })
 
 })
 
